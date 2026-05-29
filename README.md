@@ -29,6 +29,6 @@ The shared repo contains:
 [Final_Project](https://github.com/Spring-26-Quantitative-Finance/Theo-Joe-Quant-Projects/tree/main/Final_Project) — Berry Cox price momentum long-short strategy 
 
 
-Collaborator
+Collaborators
 
 Theo Blau & Joseph Giler Palma — Theo-Joe-Quant-Projects
