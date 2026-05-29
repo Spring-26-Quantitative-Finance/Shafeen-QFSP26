@@ -1,5 +1,7 @@
 Shafeen-QFSP26
+
 ECO 43000-ONL — Quantitative Finance | Spring 2026
+
 Instructor: Prof. John Droescher | City College of New York
 
 About This Repository
