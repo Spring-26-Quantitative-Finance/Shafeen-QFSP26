@@ -12,7 +12,8 @@ Project 2 and the Final Project were completed in collaboration with Theo Blau &
 
 All collaborative work is hosted in our shared repository linked below.
 
-Projects
+Projects:
+
 📁 Project 1
 Individually completed project — available in the Project 1 folder above.
 
