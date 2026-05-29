@@ -4,7 +4,7 @@ ECO 43000-ONL — Quantitative Finance | Spring 2026
 
 Instructor: Prof. John Droescher | City College of New York
 
-About This Repository
+
 
 This repository contains my coursework for ECO 43000 Quantitative Finance, Spring 2026.
 
