@@ -19,6 +19,7 @@ Completed in collaboration with Theo Blau.
 The shared repo contains:
 
 [Project2](https://github.com/Spring-26-Quantitative-Finance/Theo-Joe-Quant-Projects/tree/main/Project2) — Factor analysis and portfolio construction
+
 [Final_Project](https://github.com/Spring-26-Quantitative-Finance/Theo-Joe-Quant-Projects/tree/main/Final_Project) — Berry Cox price momentum long-short strategy 
 
 
