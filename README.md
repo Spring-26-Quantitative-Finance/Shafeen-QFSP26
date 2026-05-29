@@ -18,7 +18,7 @@ Projects:
 Individually completed project — available in the Project 1 folder above.
 
 📁 Project 2 & Final Project (Collaborative)
-Completed in collaboration with Theo Blau.
+Completed in collaboration with Theo Blau and Joseph Giler Palma.
 
 🔗 [View Project 2 and Final Project on our shared repository](https://github.com/Spring-26-Quantitative-Finance/Theo-Joe-Quant-Projects)
 
